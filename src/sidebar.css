@@ -1,0 +1,10 @@
+li {
+  list-style-type: none;
+  font-size: 20px;
+  margin: 20px 0;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+}

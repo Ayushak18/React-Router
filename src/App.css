@@ -1,0 +1,22 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+}
+
+.main {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+a {
+  color: coral;
+}
+
+.selected {
+  background: coral;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 3px;
+}

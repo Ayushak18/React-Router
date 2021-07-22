@@ -1,0 +1,19 @@
+.header {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background: darkblue;
+  color: white;
+}
+
+svg {
+  width: 50px;
+}
+
+.site-logo path {
+  fill: white;
+}
+
+.heading {
+  margin-left: 10px;
+}
